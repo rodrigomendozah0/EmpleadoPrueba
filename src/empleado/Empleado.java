@@ -26,5 +26,6 @@ public class Empleado {
         System.out.println("El calculo del sueldo neto para el empleado es: " +rpta_1 );
         System.out.println(a1.toString());
         System.out.println("Buenas noches");
+        System.out.println("Segundo intento");
     } 
 }
