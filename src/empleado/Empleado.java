@@ -25,5 +25,6 @@ public class Empleado {
         System.out.println("El calculo de las horas para el empleado es: " +rpta );
         System.out.println("El calculo del sueldo neto para el empleado es: " +rpta_1 );
         System.out.println(a1.toString());
+        System.out.println("Buenas noches");
     } 
 }
